@@ -33,6 +33,7 @@ p {
   border-radius: 0;
 }
 
+
 @media screen and (min-width:576px) {
   .row {
     margin-bottom: 30px;
@@ -57,9 +58,8 @@ p {
 }
 }
 
-
 .submit-color {
-  background-color: #17a2b8;
+  background-color: red;
   color: white;
   opacity: 0.9;
   transition: all 0.4s;
